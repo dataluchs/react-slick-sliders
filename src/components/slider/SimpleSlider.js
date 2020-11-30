@@ -121,7 +121,7 @@ const Image = styled.img`
 `
 
 const Slide = styled.div`
-    transform: scale(0.2);
+    transform: scale(0.5);
     transition: transform 300ms;
     padding:40px 0px;
 `

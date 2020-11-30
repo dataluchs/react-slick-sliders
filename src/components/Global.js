@@ -8,5 +8,5 @@ export const Container = styled.div`
 export const FullWidthSection = styled.div`
     width:100%;
     height: auto;
-    padding:20px;
+    padding:20px 0px;
 `
