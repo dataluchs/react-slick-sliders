@@ -1,7 +1,8 @@
 import React, { Fragment } from 'react'
 import './styles/main.scss'
+// import "slick-carousel/slick/slick.css";
+// import "slick-carousel/slick/slick-theme.css"
 import Header from './components/layout/Header'
-import Slider from './components/slider/SimpleSlider'
 import SimpleSlider from './components/slider/SimpleSlider'
 
 function App() {
