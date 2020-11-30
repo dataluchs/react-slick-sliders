@@ -14,6 +14,10 @@ const Header = () => {
 export default Header
 
 const HeaderWrapper = styled.div`
+    border-bottom:1px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+
     h2 {
         font-size:1.1rem;
         font-weight:400;
